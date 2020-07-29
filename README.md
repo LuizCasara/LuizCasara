@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Luiz Claudio from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 and currently I'm Tech Lead at [Wealth Systems](https://wealthsystems.com.br/). I really like to learn and discover newest libs / frameworks and test it. 
+My name is Luiz Claudio Perin casara from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 and currently I'm Tech Lead at [Wealth Systems](https://wealthsystems.com.br/). I really like to learn and discover newest libs / frameworks and test it. 
 
 In my free time I like to play games (🎮), to watch movies (🎞️) and series (📺), to bike (🚲), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
 

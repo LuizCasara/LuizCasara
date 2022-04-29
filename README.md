@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Luiz Claudio Perin casara from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 and currently I'm at [Wealth Systems](https://wealthsystems.com.br/). I really like to learn and discover newest libs / frameworks and test it. 
+My name is Luiz Claudio Perin Casara from Brazil (🇧🇷). I've been working as Developer since 2015 (Java, JS, Postgress, Oracle, Node, React, React Native) and currently I'm at [Wealth Systems](https://wealthsystems.com.br/)(Totvs) more in Front-End / Mobile projects. 
 
-In my free time I like to play games (🎮), to watch movies (🎞️) and series (📺), to bike (🚲), listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+I really like to learn and discover newest libs/frameworks and test it. I love puzzles and complex problems to solve. WiIth the time, I learned done is bether than perfect, but i run after the perfect in all i'm doing. Love work with people and be able talk about problems and solutions, make new friends and discover more and more about work and life. 
 
 
 - 🔭 I’m currently working on "how to create my son to be a good developer" 😆

@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Luiz Claudio Perin Casara from Brazil (🇧🇷). I've been working as Developer since 2015 (Java, JS, Postgress, Oracle, Node, React, React Native) and currently I'm at [Wealth Systems](https://wealthsystems.com.br/)(Totvs) more in Front-End / Mobile projects. 
+My name is Luiz Claudio Perin Casara from Brazil (🇧🇷). I've been working as Developer since 2015 most of the time with (JS, ECS6, Node, React, React Native, Cypress, SQL, Postgress, Oracle) and currently I'm at Wealth Systems(Totvs) more in Front-End / Mobile projects. 
 
-I really like to learn and discover newest libs/frameworks and test it. I love puzzles and complex problems to solve. WiIth the time, I learned done is bether than perfect, but i run after the perfect in all i'm doing. Love work with people and be able talk about problems and solutions, make new friends and discover more and more about work and life. 
+I am a professional driven by new challenges, I love finding solutions to complex problems, and solving problems that other people avoid. I have the facility to turn complex explanations into something simpler. I am detail-made and always try to question the projects to in fact to deliver the best possible experience for the user. 
 
+I like to learn and discover newest libs/frameworks and test it. I Love work with people and be able talk about problems and solutions, make new friends and discover more and more about work and life.
 
 - 🔭 I’m currently working on "how to create my son to be a good developer" 😆
 - 🌱 I’m currently learning [Cypress](https://www.cypress.io/)

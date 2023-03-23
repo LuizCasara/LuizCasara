@@ -22,14 +22,22 @@ I am driven by new challenges, constantly looking for solutions to complex probl
 I am eager to learn and discover new libraries and frameworks, and I love working with people to share problem-solving strategies, make new connections, and find out more about the applications and life in general.
 
 🔭 At the moment, I am working on "how to create a good developer in my son" 😆
+
 🌱 Currently, I am learning AWS and Python
+
 😄 Pronouns: he/him
+
 🔭 I’m currently working on a new idea (secret) with some friends...
+
 💬 Ask me about [Scouts Group](https://www.escoteiros.org.br/)
+
 📫 Feel free to reach me at luiz9493@gmail.com or on [discord](https://discord.gg/T9pndrnPD4)
+
 
 <!-- - ⚡ Fun fact: I love [Ingress](https://ingress.com/) (💚) and current i'm a lead in a [LAO](https://www.playlostark.com/pt-br) guild.
  -->
+
+
 
 Would you like to find me?
     

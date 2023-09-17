@@ -42,9 +42,7 @@ I am eager to learn and discover new libraries and frameworks, and I love workin
 Would you like to find me?
     
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Fencher_LC)](https://twitter.com/Fencher_LC)
-    
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-claudio-perin-casara-8bb1a5ab)](https://www.linkedin.com/in/luiz-claudio-perin-casara-8bb1a5ab/)
-        
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=[https://www.linkedin.com/in/felipefialho](https://www.instagram.com/luiz_cpc/))](https://www.instagram.com/luiz_cpc)
  
 <!--
@@ -53,6 +51,6 @@ Would you like to find me?
 -->
 
 <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizCasara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizCasara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCasara&layout=compact&langs_count=16&theme=dracula"/>
 </div>
